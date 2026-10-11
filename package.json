@@ -23,7 +23,6 @@
     "recharts": "^3.10.1",
     "tailwind-merge": "^3.7.0",
     "three": "^0.186.1",
-    "uuid": "^14.0.3",
     "zod": "^4.6.5"
   },
   "devDependencies": {
